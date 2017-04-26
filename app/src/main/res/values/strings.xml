@@ -4,4 +4,9 @@
     <string name="regis">สมัครสมาชิกใหม่</string>
     <string name="user">USER :</string>
     <string name="password">password :</string>
+    <string name="signup">signup</string>
+    <string name="name">=ชื่อผู้สมัคร</string>
+    <string name="sername">ชื่อ-นามสกุล</string>
+    <string name="name2">=กำหนดชื่อใช้งาน</string>
+    <string name="cpassword">สร้างpassword</string>
 </resources>
