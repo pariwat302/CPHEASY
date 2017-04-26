@@ -2,4 +2,6 @@
     <string name="app_name">CPH EASY</string>
     <string name="login">ลงชื่อใช้งาน</string>
     <string name="regis">สมัครสมาชิกใหม่</string>
+    <string name="user">USER :</string>
+    <string name="password">password :</string>
 </resources>
